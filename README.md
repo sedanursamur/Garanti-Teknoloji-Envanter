@@ -10,5 +10,6 @@
  
  3- ![image](https://github.com/sedanursamur/Garanti-Teknoloji-Envanter/assets/81965223/2ef9ada7-25ee-4409-bc56-873e1eae25e9)
 
- 4- ![image](https://github.com/sedanursamur/Garanti-Teknoloji-Envanter/assets/81965223/6f88b01b-5196-42d2-bcf2-254c87fb0bcf)
+ 4- ![image](https://github.com/sedanursamur/Garanti-Teknoloji-Envanter/assets/81965223/c5f37ec1-0505-4260-ad29-adf1c2a8aab0)
+
 
