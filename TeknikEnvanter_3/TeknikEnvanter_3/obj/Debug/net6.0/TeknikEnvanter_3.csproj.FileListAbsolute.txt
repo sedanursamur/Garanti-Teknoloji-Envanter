@@ -1,0 +1,14 @@
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.AssemblyInfoInputs.cache
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.AssemblyInfo.cs
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.csproj.CoreCompileInputs.cache
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\bin\Debug\net6.0\TeknikEnvanter_3.exe
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\bin\Debug\net6.0\TeknikEnvanter_3.deps.json
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\bin\Debug\net6.0\TeknikEnvanter_3.runtimeconfig.json
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\bin\Debug\net6.0\TeknikEnvanter_3.dll
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\bin\Debug\net6.0\TeknikEnvanter_3.pdb
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.dll
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\refint\TeknikEnvanter_3.dll
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.pdb
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\TeknikEnvanter_3.genruntimeconfig.cache
+C:\Users\ssamur\Desktop\GarantiTeknoloji\TeknikEnvanter_3\TeknikEnvanter_3\obj\Debug\net6.0\ref\TeknikEnvanter_3.dll
